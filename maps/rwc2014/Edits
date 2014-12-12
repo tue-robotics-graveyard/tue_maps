@@ -1,0 +1,30 @@
+Fridge:
+Corner (96, 279)
+Lower-left corner = (96, 279-0.67/0.025) = (96, 252)
+Upper-right corner = (96+0.73/0.025, 252-0.54/0.025) = (125, 230)
+
+Kitchen counter:
+Corner (96, 279)
+Lower-left corner = (96, 279-1.4/0.025) = (96, 223)
+Upper-right corner = (96+0.62/0.025, 223-1.53/0.025) = (121, 162)
+
+Stove
+Corner (96, 279)
+Lower-left corner = (96, 279-3.17/0.025) = (96, 152)
+Upper-right corner = (96+0.6/0.025, 152-0.5/0.025) = (120, 132)
+
+Bar:
+Corner (223, 11)
+Right-upper corner = (223--0.58/0.025, 11) = (200, 11)
+Lower-left corner  = (200-1/0.025, 11+0.35/0.025) = (160, 25)
+
+Sideboard:
+Corner (412, 12)
+Right-upper corner = (412, 12+2.47/0.025) = (412, 111)
+Lower-left corner = (412-0.45/0.025, 111+1.85/0.025) = (394, 185)
+Lower-left corner loc= (412-0.45/0.025, 111+1.13/0.025) = (394, 156)
+
+Table:
+Corner (226, 270)
+Lower-left corner = (226+1.31/0.025, 270-1.13/0.025) = (278, 225)
+Upper-right corner = (278+1.8/0.025, 225-0.9/0.025) = (350, 189)
